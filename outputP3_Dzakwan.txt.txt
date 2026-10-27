@@ -1,0 +1,13 @@
+Masukan Nama: Muhammad Dzakwan Habib
+Masukan NIM: 26241074
+Program Studi: PTI
+2 digit nim: 74
+==========output==========
+Nama: Muhammad Dzakwan Habib
+NIM: 26241074
+Program Studi: PTI
+Dua Digit Terakhir NIM: 74
+Tipe data Nama: <class 'str'>
+Tipe data NIM: <class 'int'>
+Tipe data Program Studi: <class 'str'>
+Tipe data Dua Digit NIM: <class 'int'>
